@@ -138,9 +138,3 @@ def my_algorithm(graph):
 
 ---
 
-## **9. Next Steps**
-Would you like:
-1. A **proof of concept** for user-submitted functions?
-2. A **backend prototype** with a working API?
-3. A **frontend UI wireframe** for the interactive graph editor?
-
